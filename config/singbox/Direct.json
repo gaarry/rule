@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lilboat.cc",
+        "gary-yao.com",
+        "980318.xyz"
+      ]
+    }
+  ]
+}
